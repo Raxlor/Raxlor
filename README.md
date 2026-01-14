@@ -78,10 +78,8 @@
           <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/Webhook-000000?style=flat-square&logo=socket.io&logoColor=white" />
-          <img src="https://img.shields.io/badge/Webhook-000000?style=flat-square&logo=socket.io&logoColor=white" />
-        </p>
-      </td>
-    </tr>
+
+     
   </table>
 </div>
 
@@ -90,7 +88,7 @@
 <div align="center">
   <h3 style="color: #ffffff;">💻 Core Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,nodejs,express,postgres,redis,docker,git,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,php,nodejs,react,vite,laravel,express,postgres,git,&perline=6" />
   </a>
 </div>
 
